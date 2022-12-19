@@ -45,4 +45,4 @@ The completed application should meet the following criteria:
     ![On a mobile device, the application displays one CSS code snippet per row.](./images/03-app-mobile.png)
 
 ### Link
-<a href=" ">CSS Snippet Cheatsheet Website</a>
+<a href="https://sinthiya1.github.io/CSS-Snippet-Cheatsheet/">CSS Snippet Cheatsheet Website</a>

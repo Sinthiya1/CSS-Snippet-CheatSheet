@@ -1,6 +1,6 @@
 # Mini-project: CSS Snippet Cheat Sheet
 
-Responsive grid property of Css used here.
+Responsive grid and flex elements of Css used here.
 
 ## Instructions
 
